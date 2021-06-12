@@ -1,4 +1,4 @@
-Contact: hector.kohler@student.manchester.ac.uk (or hecthebestbgdu9@gmail.com)
+Contact: hecthebestbgdu9@gmail.com
 
 IN THIS FILE YOU WILL FIND:
 
