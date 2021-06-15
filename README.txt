@@ -1,6 +1,6 @@
 Contact: hecthebestbgdu9@gmail.com
 
-IN THIS FILE YOU WILL FIND:
+IN THIS Repo YOU WILL FIND:
 
 -HighDimCovarPDF: pdf report of main literature around High DImensional Covariance Estimation.
 -Presentation High DIm Covar: pptx presentation of main points of the report.
